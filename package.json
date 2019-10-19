@@ -33,7 +33,8 @@
     ],
     "rules": {},
     "parserOptions": {
-      "parser": "babel-eslint"
+      "parser": "babel-eslint",
+      "no-console": "off"
     }
   },
   "postcss": {
